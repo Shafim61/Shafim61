@@ -1,9 +1,13 @@
 ### Hi there 👋
 I'm Tanvir Rashik Shafim ✨✨
+I am a fresher dev and enthuasiastic learner.Love to explore 🕶️🕶️
 
 ## My Work:
-✅I am one of the Volunteers at Programming Hero.(https://www.programming-hero.com/)
-🍥My Roles:
+![Final](https://user-images.githubusercontent.com/72407996/113268989-d2700200-92f9-11eb-8206-4a666d9f4ed5.jpg)
+
+✅I am a volunteer at Programming Hero.
+                                                                       
+🍥My Roles:          
   * ✔️Moderator
   * ✔️Translator
   * ✔️Content Reviwer
@@ -12,16 +16,17 @@ I'm Tanvir Rashik Shafim ✨✨
   * Python Developer🔷
   * Baby Web developer🔷
   * Competitve Programming🔷
+
  
- ### Currently Learning 📖:
+ ## Currently Learning 📖:
   * C and C++
   * Machine Learning
   * Data Science
   * Artificial Intelligence
   
   
-  ###### 😎Learn evryday.....
-           THANKS FOR VISITING 💝
+  #### 😎Learn evryday.....
+         THANKS FOR VISITING 💝
 
 
 
