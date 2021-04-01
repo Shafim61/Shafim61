@@ -25,9 +25,13 @@ I am a fresher dev and enthuasiastic learner.Love to explore 🕶️🕶️
   * Artificial Intelligence
   
   
-  #### 😎Learn evryday.....
+  ### 😎Learn everyday.....
          THANKS FOR VISITING 💝
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shafim61)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tanvir.rashik.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Tanvir61)  
 
 
 
